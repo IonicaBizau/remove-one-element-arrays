@@ -1,0 +1,43 @@
+{
+  "name": "remove-one-element-arrays",
+  "description": "Removes the one-element arrays from an object.",
+  "keywords": [
+    "remove",
+    "one",
+    "element",
+    "arrays",
+    "removes",
+    "the",
+    "from",
+    "an",
+    "object"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "build/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/remove-one-element-arrays.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/remove-one-element-arrays/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/remove-one-element-arrays#readme"
+}
