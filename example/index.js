@@ -2,4 +2,11 @@
 
 const removeOneElementArrays = require("../lib");
 
-console.log(removeOneElementArrays());
+console.log(removeOneElementArrays({
+    myArray: [
+        "foo",
+        ["bar", "baz"],
+        ["foo"]
+    ],
+    name: ["Alice"]
+}));
